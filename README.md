@@ -6,7 +6,8 @@ weather related data like rain, snow extreme etc.
 ## Installation
 
 Installation is very straightforward, you need to add download the library
-from [github](https://github.com/abduldblogger/weather-sdk/tree/master/mylibrary) and paste in the
+from [github](https://github.com/Deepikakapila-Damco/WheatherApp_And_SDK/tree/main/damcoWeather) and paste in the
+
 same app folder in which you want to integrate it, then follow the steps below:
 
 Step 1: Follow to File > New Module
